@@ -24,7 +24,7 @@ console.log(calcAge1, calcAge2);
 
 // Function is called before the function in function declaration
 
-// const age1 = calcAge1(1987); // don't forget to comment out line 12 before calling this & remove // here in order to work
+// const age1 = calcAge1(1987); // don't forget to comment out line 12 before calling this & remove '//' here in order to work
 
 function calcAge1(birthyear) {
     const age = 2024 - birthyear;
