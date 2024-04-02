@@ -4,4 +4,5 @@
 <ol>
   <li><h3>Arrays</h3></li>
   <li><h3>Functions</h3></li>
+  <li><h3>Objects</h3></li>
 </ol>
